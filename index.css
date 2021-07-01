@@ -1,6 +1,10 @@
 #clockContainer{
     position: relative;
-    margin: 100px 100px 15px 450px;
+    /* margin: 100px 100px 15px 450px; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 7vw;
     height: 40vw;
     width: 40vw;
     background: url(clock.png) no-repeat;
